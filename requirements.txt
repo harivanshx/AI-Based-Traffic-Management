@@ -1,0 +1,28 @@
+# AI-Based Traffic Management System
+# CPU-only optimized dependencies
+
+# YOLO Object Detection (CPU-optimized)
+ultralytics>=8.0.0
+
+# Computer Vision and Image Processing
+opencv-python>=4.8.0
+opencv-contrib-python>=4.8.0
+
+# Numerical Computing
+numpy>=1.24.0
+
+# Image Processing
+Pillow>=10.0.0
+
+# Progress Bars and Utilities
+tqdm>=4.65.0
+
+# Data Handling
+pandas>=2.0.0
+
+# Visualization (optional, for advanced plotting)
+matplotlib>=3.7.0
+
+# Web Framework
+flask>=3.0.0
+werkzeug>=3.0.0
